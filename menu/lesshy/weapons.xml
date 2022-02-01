@@ -1,0 +1,9 @@
+<Tab name="Weapons">
+    <TabContainer width="fill" height="fill">
+        <Include path="lesshy/weapons/aimbot.xml"/>
+        <Include path="lesshy/weapons/crits.xml"/> <!-- crits is a weaponish releated cheat
+              TODO ADD CRITS TO AIMBOT.XML    -->
+        <Include path="lesshy/weapons/triggerbot.xml"/>
+        <Include path="lesshy/weapons/autoheal.xml"/>
+    </TabContainer>
+</Tab>

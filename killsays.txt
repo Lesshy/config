@@ -1,0 +1,2 @@
+change the killsays with actual killsays
+%team% %class% %killer% %name% %myteam% %myclass% \n

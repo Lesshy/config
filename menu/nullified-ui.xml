@@ -1,0 +1,16 @@
+<ElementGroup>
+    <Window x="100" y="300" name="Main Window" width="content" height="content">
+        <TabContainer width="600" height="450">
+            <Include path="lesssyteam/weapons.xml"/>
+            <Include path="lesssyteam/crits.xml"/>
+            <Include path="lesssyteam/visuals.xml"/>
+            <Include path="lesssyteam/antiaim.xml"/>
+            <Include path="lesssyteam/warp.xml"/>
+            <Include path="lesssyteam/movement.xml"/>
+            <Include path="lesssyteam/misc.xml"/>
+            <Include path="lesssyteam/chat.xml"/>
+            <Include path="lesssyteam/config.xml"/>
+            <Include path="lesssyteam/hackinfo.xml"/>
+        </TabContainer>
+    </Window>
+</ElementGroup>

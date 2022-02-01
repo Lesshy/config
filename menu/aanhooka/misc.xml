@@ -1,0 +1,11 @@
+<Tab name="Misc">
+    <TabContainer width="fill" height="fill">
+        <Include path="lesshy/misc/anticheat.xml"/>
+        <Include path="lesshy/misc/autoitem.xml"/>
+        <Include path="lesshy/misc/spyalert.xml"/>
+        <Include path="lesshy/misc/collective.xml"/>
+
+        <!-- Chat was moved to misc so bot could be somewhere else -->
+        <Include path="lesshy/misc/chat.xml"/>
+    </TabContainer>
+</Tab>

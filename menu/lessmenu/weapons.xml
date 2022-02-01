@@ -1,0 +1,9 @@
+<Tab name="Weapons">
+    <TabContainer width="fill" height="fill">
+        <Include path="lessmenu/weapons/aimbot.xml"/>
+        <Include path="lessmenu/weapons/nospread.xml"/>
+        <Include path="lessmenu/weapons/crits.xml"/>
+        <Include path="lessmenu/weapons/triggerbot.xml"/>
+        <Include path="lessmenu/weapons/autoheal.xml"/>
+    </TabContainer>
+</Tab>

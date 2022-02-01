@@ -1,0 +1,9 @@
+<Tab name="Botting">
+    <TabContainer width="fill" height="fill">
+        <Include path="lesshy/bot/nav.xml"/>
+        <Include path="lesshy/bot/utilitys.xml"/>
+    </TabContainer>
+</Tab>
+
+<!-- Custom tab made by lesshy
+    TODO fix some bugs within xml  -->

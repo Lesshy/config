@@ -1,0 +1,11 @@
+<Tab name="UI" padding="4 4 4 4">
+    <Box padding="12 6 6 6" width="content" height="content" name="GUI">
+        <List width="180">
+            <AutoVariable width="fill" target="visual.open-gui-button" label="Menu Key" tooltip="Button to toggle this menu."/>
+            <AutoVariable width="fill" target="visual.clean-screenshots" label="Clean screenshots"/>
+            <AutoVariable width="fill" target="visual.medal-flip" label="Guaranteed medal flip"/>
+            <AutoVariable width="fill" target="hack-info.enable" label="Full Watermark" tooltip="Controls text at top left of screen."/>
+            <AutoVariable width="fill" target="hack-info.minimal" label="Minimal Watermark" tooltip="Only show the rainbow text in the label."/>
+        </List>
+    </Box>
+</Tab>

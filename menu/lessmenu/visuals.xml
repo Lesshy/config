@@ -1,0 +1,13 @@
+<Tab name="Visuals">
+    <TabContainer width="fill" height="fill">
+        <Include path="lessmenu/visuals/esp.xml"/>
+        <Include path="lessmenu/visuals/glow.xml"/>
+        <Include path="lessmenu/visuals/chams.xml"/>
+        <Include path="lessmenu/visuals/tracers.xml"/>
+        <Include path="lessmenu/visuals/radar.xml"/>
+        <Include path="lessmenu/visuals/colors.xml"/>
+        <Include path="lessmenu/visuals/ui.xml"/>
+        <Include path="lessmenu/visuals/uicolors.xml"/>
+        <Include path="lessmenu/visuals/world.xml"/>
+    </TabContainer>
+</Tab>
