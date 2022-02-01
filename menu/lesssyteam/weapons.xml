@@ -1,8 +1,0 @@
-<Tab name="Weapons">
-    <TabContainer width="fill" height="fill">
-        <Include path="lesssyteam/weapons/aimbot.xml"/>
-        <Include path="lesssyteam/weapons/nospread.xml"/>
-        <Include path="lesssyteam/weapons/triggerbot.xml"/>
-        <Include path="lesssyteam/weapons/autoheal.xml"/>
-    </TabContainer>
-</Tab>
