@@ -1,2 +1,4 @@
-change the killsays with actual killsays
-%team% %class% %killer% %name% %myteam% %myclass% \n
+what kind of affect would dodging do? %name%?
+histerical try! %name%.
+%team% should kick %name% for dying to me so often. kinda a sore loser.
+walking straight i see %name%... so unfortunate i had my beams target you.
